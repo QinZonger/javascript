@@ -5,3 +5,4 @@ ES6
 [var、let、const 区别](https://github.com/QinZonger/javascript/issues/3)<br/>
 [new 、this、以及原型链相关问题](https://github.com/QinZonger/javascript/issues/4)<br/> 
 [闭包](https://github.com/QinZonger/javascript/issues/5)<br/> 
+[事件冒泡与事件捕捉](https://github.com/QinZonger/javascript/issues/6)<br/>
