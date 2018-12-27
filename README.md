@@ -1,3 +1,4 @@
+"markdown.styles": [],
 ES6
 =============
 <a href="https://github.com/QinZonger/javascript/issues/1" style="text-decoration:none;out-line: none;color: #*****;">数组的方法</a><br/>
