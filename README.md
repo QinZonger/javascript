@@ -7,3 +7,4 @@ ES6
 [闭包](https://github.com/QinZonger/javascript/issues/5)<br/> 
 [事件冒泡与事件捕捉](https://github.com/QinZonger/javascript/issues/6)<br/>
 [defineProperty 与 proxy](https://github.com/QinZonger/javascript/issues/7)<br/>
+[节流与防抖](https://github.com/QinZonger/javascript/issues/8)<br/>
