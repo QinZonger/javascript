@@ -9,3 +9,4 @@ ES6
 [defineProperty 与 proxy](https://github.com/QinZonger/javascript/issues/7)<br/>
 [节流与防抖](https://github.com/QinZonger/javascript/issues/8)<br/>
 [类数组对象与arguments](https://github.com/QinZonger/javascript/issues/9)<br/>
+[本地跨域与线上跨域](https://github.com/QinZonger/javascript/issues/10)<br/>
