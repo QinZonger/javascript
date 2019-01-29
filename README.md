@@ -10,3 +10,5 @@ ES6
 [节流与防抖](https://github.com/QinZonger/javascript/issues/8)<br/>
 [类数组对象与arguments](https://github.com/QinZonger/javascript/issues/9)<br/>
 [本地跨域与线上跨域](https://github.com/QinZonger/javascript/issues/10)<br/>
+[vue](https://github.com/QinZonger/javascript/issues/11)<br/>
+[Math](https://github.com/QinZonger/javascript/issues/12)<br/>
