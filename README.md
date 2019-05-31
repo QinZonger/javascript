@@ -12,3 +12,5 @@ ES6
 [本地跨域与线上跨域](https://github.com/QinZonger/javascript/issues/10)<br/>
 [vue](https://github.com/QinZonger/javascript/issues/11)<br/>
 [Math](https://github.com/QinZonger/javascript/issues/12)<br/>
+[vue 中函数异步处理](https://github.com/QinZonger/javascript/issues/14)<br/>
+
